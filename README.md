@@ -26,5 +26,8 @@ Every public repo includes an **At a glance** table (what / what for / how) and 
 | [stl-sandbox](https://github.com/Coinupbtc/stl-sandbox) | Prompt → STL/STEP sandbox | Local printable CAD + bed-fit checks | `./install.sh` → `:8050` |
 | [bitcoin-blockfield](https://github.com/Coinupbtc/bitcoin-blockfield) | Mempool visualizer | See next-block fee wars at a glance | `./setup.sh` or open `index.html` |
 | [teachers-book](https://github.com/Coinupbtc/teachers-book) | Browser gradebook | Fast local-first grade entry | `./setup.sh` → `:8010` |
+| [falling-sand](https://github.com/Coinupbtc/falling-sand) | Browser falling-sand chemistry sim | Play particle reactions locally | open `index.html` or `./setup.sh` |
+| [gravity-lander](https://github.com/Coinupbtc/gravity-lander) | Phone-first Three.js lunar lander | Playable landings on desktop/iPhone | `./setup.sh` → `:8070` |
+| [ordinookis](https://github.com/Coinupbtc/ordinookis) | Pixel character + short MP4 gallery | Browse Ordinooki-style art/clips | open `index.html` or `./setup.sh` |
 
 *Weights stay local. Repos ship methods, adapters, and measured results.*
