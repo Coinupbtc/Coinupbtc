@@ -12,13 +12,14 @@ Every public repo includes an **At a glance** table (what / what for / how) and 
 | Repo | What it is | What it’s for | How to use |
 |------|------------|---------------|------------|
 | **[helix-qms-desk](https://github.com/Coinupbtc/helix-qms-desk)** | Quality desk + CSV binder for a demo med-device plant | Sr QE / SQE / validation screens | `./setup.sh` or open the Pages URL |
+| **[spark-ledger](https://github.com/Coinupbtc/spark-ledger)** | Ship/kill blotter for local Spark models | Decide with public numbers, not vibes | `./setup.sh` or [Pages](https://coinupbtc.github.io/spark-ledger/) |
 | **[build-a-boat](https://github.com/Coinupbtc/build-a-boat)** | Fictional marine electrical package | Drawings + voltage-drop / AC-DC hard stops | `./setup.sh` |
 | **[miaai35-tune](https://github.com/Coinupbtc/miaai35-tune)** | Measured llama.cpp tune for Qwen3.6-35B | Pick serving flags with real tok/s & quality | `./setup.sh` or read `REPORT.md` |
 | **[spark-training-lab](https://github.com/Coinupbtc/spark-training-lab)** | LoRA/QLoRA lab (adapters + datasets) | Small Spark fine-tunes without multi-GB weights in git | `./setup.sh` |
 | **[zwell-bench](https://github.com/Coinupbtc/zwell-bench)** | Local LLM bakeoff harness | Objective model comparisons | `./setup.sh` then `bench_zwell.py` |
 | **[spark-console](https://github.com/Coinupbtc/spark-console)** | Local GPU/fleet dashboard | One-pane Spark health on localhost | `./setup.sh` → `:8085` |
 
-`miaai35-tune` notes its serving baseline from [MiaAI Labs’ Qwen3.6-35B Spark recipe](https://github.com/MiaAI-Lab/Qwen3.6-35B-A3B-UD-Q8_K_XL_DGX-Spark-Recipe) — that credit is for that tune only, not the other repos.
+`miaai35-tune` and the 35B cards on `spark-ledger` note the serving baseline from [MiaAI Labs’ Qwen3.6-35B Spark recipe](https://github.com/MiaAI-Lab/Qwen3.6-35B-A3B-UD-Q8_K_XL_DGX-Spark-Recipe) — that credit is for that recipe only, not the other repos.
 
 #### Also
 
