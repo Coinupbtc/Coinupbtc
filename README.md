@@ -1,6 +1,6 @@
 Quality systems. On-prem inference. Measured, not claimed.
 
-**Hiring managers — start here:** **[Helix QMS Desk](https://coinupbtc.github.io/helix-qms-desk/)** (90 seconds in the browser). A fictional biomedical plant: calibration sticker ≠ certificate, CAPA 8D, supplier SCARs, fail-closed integrity checks. All records are synthetic.
+**[Helix QMS Desk](https://coinupbtc.github.io/helix-qms-desk/)** (90 seconds in the browser). A fictional biomedical plant: calibration sticker ≠ certificate, CAPA 8D, supplier SCARs, fail-closed integrity checks. All records are synthetic.
 
 Homepage: **[coinupbtc.com](https://coinupbtc.com)**
 
