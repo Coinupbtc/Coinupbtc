@@ -27,7 +27,7 @@ Dual NVIDIA DGX Spark. Weights stay local.
 
 `miaai35-tune` credits [MiaAI Labs’ Qwen3.6-35B Spark recipe](https://github.com/MiaAI-Lab/Qwen3.6-35B-A3B-UD-Q8_K_XL_DGX-Spark-Recipe) for the serving baseline of that tune only.
 
-### Also (runnable, not the hiring pitch)
+### Also 
 
 [gravity-lander](https://github.com/Coinupbtc/gravity-lander) · [stl-sandbox](https://github.com/Coinupbtc/stl-sandbox) · [bitcoin-blockfield](https://github.com/Coinupbtc/bitcoin-blockfield) · [teachers-book](https://github.com/Coinupbtc/teachers-book)
 
