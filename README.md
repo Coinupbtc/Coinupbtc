@@ -22,6 +22,8 @@ Dual NVIDIA DGX Spark. Weights stay local.
 |------|----------------|
 | **[dream-stack](https://github.com/Coinupbtc/dream-stack)** | Two-node serving: vLLM TP=2 + llama.cpp roommate. `./setup.sh && ./setup.sh --up` |
 | **[spark-console](https://github.com/Coinupbtc/spark-console)** | Local fleet health dashboard. `./setup.sh` → `:8085` |
+| **[MiniMax-H3-2x-DGX-Spark](https://github.com/Coinupbtc/MiniMax-H3-2x-DGX-Spark)** | Two-Spark H3 over RoCE IB. Same-seed quality SHA + 55.5 s eager clip. |
+| **[MiniMax-H3-1x-DGX-Spark](https://github.com/Coinupbtc/MiniMax-H3-1x-DGX-Spark)** | One-Spark H3 CUDNN eager — SHA-identical to the 2× clip, slower. `./setup.sh && ./start.sh` |
 | **[miaai35-tune](https://github.com/Coinupbtc/miaai35-tune)** | Flag-by-flag llama.cpp bakeoff — numbers instead of vendor slides. |
 | **[spark-training-lab](https://github.com/Coinupbtc/spark-training-lab)** | Small QLoRA runs with held-out evaluation. Weights never leave the box. |
 
