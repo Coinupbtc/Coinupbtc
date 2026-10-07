@@ -12,7 +12,7 @@ Homepage: **[coinupbtc.com](https://coinupbtc.com)**
 |------|----------------|
 | **[helix-qms-desk](https://github.com/Coinupbtc/helix-qms-desk)** | Interactive ISO 13485 quality desk. [Open the Pages build](https://coinupbtc.github.io/helix-qms-desk/). |
 | **[build-a-boat](https://github.com/Coinupbtc/build-a-boat)** | Marine electrical package — voltage-drop and AC/DC hard stops. [Pages](https://coinupbtc.github.io/build-a-boat/). |
-| **[zwell-bench](https://github.com/Coinupbtc/zwell-bench)** | 15-check release gate. A build ships only if every check passes. The published 16 July 2026 run is 14 of 15. |
+| **[zwell-bench](https://github.com/Coinupbtc/zwell-bench)** | 15-check release gate. Aims for all-green; the published 16 July 2026 run is 14/15. |
 
 ### On-prem inference
 
