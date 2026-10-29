@@ -10,7 +10,7 @@ Nine years in engineering and manufacturing quality, most recently in FDA-regula
 
 #### Play
 
-[The Arcade](https://coinupbtc.com/arcade/), fourteen phone-first browser games, each checked against a public quality checklist before it ships · [Blockfield](https://coinupbtc.com/bitcoin-blockfield/), the live Bitcoin mempool as a block war · [Falling sand](https://coinupbtc.com/falling-sand/), a chemistry set with no cleanup · [Gravity lander](https://coinupbtc.com/gravity-lander/), land on the moon with your thumb · [the lab](https://coinupbtc.xyz)
+[The Arcade](https://coinupbtc.com/arcade/), fourteen phone-first browser games, each held to a public quality checklist · [Blockfield](https://coinupbtc.com/bitcoin-blockfield/), the live Bitcoin mempool as a block war · [Falling sand](https://coinupbtc.com/falling-sand/), a chemistry set with no cleanup · [Gravity lander](https://coinupbtc.com/gravity-lander/), land on the moon with your thumb · [the lab](https://coinupbtc.xyz)
 
 #### Case files
 
