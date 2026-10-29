@@ -1,6 +1,6 @@
 ### Quality engineer · ISO 13485 medical devices · St. Louis
 
-Nine years in engineering and manufacturing quality, most recently in FDA-regulated medical-device manufacturing: CAPA, calibration and supplier quality under ISO 13485 and ISO 9001. On my own time I run [Hermes Agent](https://github.com/NousResearch/hermes-agent) around the clock against a DeepSeek-V4.1 model split across two NVIDIA DGX Spark machines, and I test the whole stack the way I test parts.
+Nine years in engineering and manufacturing quality, most recently in FDA-regulated medical-device manufacturing: CAPA, calibration and supplier quality under ISO 13485 and ISO 9001. Off the clock I build browser games and live toys, run AI models on two machines at home, and test all of it the way I test parts.
 
 **Looking for** quality systems, software quality and validation roles · open to remote (US) · coinupbtc@gmail.com
 
@@ -14,11 +14,10 @@ Nine years in engineering and manufacturing quality, most recently in FDA-regula
 
 #### Case files
 
-- **Three engine fixes upstream for agent traffic.** On the two-Spark DeepSeek-V4.1 recipe: a long prompt no longer freezes live streams (90 s gap down to 1.3 s), a reply's text before its tool calls is no longer dropped, and text in a fetched page can't pose as a control token. All three are on the recipe's `main`, credited in its [CREDITS.md](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks/blob/main/CREDITS.md). [Field notes on running Hermes Agent there](https://coinupbtc.xyz/notes/hermes-agent-two-sparks.html)
 - **A release gate that rejected the better build.** A fine-tuned model improved on its target task but failed 4 unrelated checks (15/19). I rejected it, rebuilt the training set and shipped at 19/19: 96.2% field accuracy against 89.2% for the base model on 104 held-out records. [The gate](https://github.com/Coinupbtc/miaai35-tune/blob/main/bench_v5.py) · [training scripts](https://github.com/Coinupbtc/spark-training-lab)
 - **13 seconds to 7.5 ms.** Selecting one row in a 516-record list rebuilt every row. [The bug and the fix, timed in your browser](https://coinupbtc.xyz/demos/render-cost.html)
 - **Control charts against machine learning.** On 1,567 real production runs at the same 1% false-alarm budget, no method reliably beat chance. I committed the analysis plan before scoring. [The study](https://github.com/Coinupbtc/secom-spc-vs-ai)
-- **Lean AI.** Lean manufacturing’s wastes, measured on an AI agent the way I’d measure a production line. Half of what it reads is text it already read; the fix was already in the tool, switched off. [Note](https://coinupbtc.xyz/notes/lean-ai.html) · [tool](https://github.com/Coinupbtc/lean-ai)
+- **Off-the-clock AI, tested like equipment.** Three of my fixes are upstream in a two-machine DeepSeek-V4.1 serving recipe: one cut a 90-second stall in live replies to 1.3 s, another stops text in a fetched page from posing as a control token ([CREDITS.md](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks/blob/main/CREDITS.md)). And [Lean AI](https://coinupbtc.xyz/notes/lean-ai.html): Lean manufacturing's wastes measured on an AI agent's token stream ([the tool](https://github.com/Coinupbtc/lean-ai)).
 - **A backup that passed for 15 days while saving one file**, and one more, on [coinupbtc.com](https://coinupbtc.com/#work).
 
 [coinupbtc.com](https://coinupbtc.com) · [The lab](https://coinupbtc.xyz) · [X @coinupbtc](https://x.com/coinupbtc)
